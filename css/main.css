@@ -1,0 +1,25 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  font-family: Arial, Helvetica, sans-serif;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+
+nav{
+  display: flex;
+  
+  align-items: center;
+}
+
+nav div{
+  margin: 20px;
+}
+
+footer{
+  display: flex;
+
+}
